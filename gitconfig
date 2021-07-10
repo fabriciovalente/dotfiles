@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fabricio.pereira.uk@gmail.com
+	name = fabricio pereira
