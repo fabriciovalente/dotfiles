@@ -1,0 +1,1745 @@
+[33mcommit 36cb5f7afd55a190e978e546050454f0afeb05a9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fabricio Xavier <fabricio.pereira.uk@gmail.com>
+Date:   Wed Jul 14 18:32:13 2021 +0100
+
+    My identity for @lewagon in the gitconfig
+
+[33mcommit 50ff671eb34961ebdba697e4b4454d7a67603ec4[m
+Author: fabricio pereira <fabricio.pereira.uk@gmail.com>
+Date:   Sat Jul 10 17:30:39 2021 +0100
+
+    My identity for @lewagon in the gitconfig
+
+[33mcommit 38190cc35ba527eb475ef303f54c19481ae63616[m[33m ([m[1;31mupstream/master[m[33m)[m
+Merge: 0388946 d699d39
+Author: Kevin ROBERT <kevin.j.robert@gmail.com>
+Date:   Wed Jul 7 16:32:26 2021 +0200
+
+    Merge pull request #90 from lewagon/split-pyenv-setup
+    
+    [pyenv] handle the PATH for pyenv
+
+[33mcommit 03889460a28876f7a32f6fb5849171c2042dc21e[m
+Merge: f30d1b4 ac3b581
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Wed Jul 7 15:05:52 2021 +0200
+
+    Merge pull request #91 from lewagon/vscode-ruby-enhanced-settings
+    
+    Remove Ruby extension settings messing with the editor
+
+[33mcommit ac3b581c8ff0a34abd23413d19415414aeed6c92[m
+Author: Dimitri Bosch <dimitribosch@hotmail.com>
+Date:   Wed Jul 7 14:47:24 2021 +0200
+
+    Remove Ruby extension settings messing with the editor
+
+[33mcommit d699d395656e5882a59c38b36617c593d1fea852[m
+Author: Gaetan Manchon <gmanchon@gmail.com>
+Date:   Mon Jul 5 14:45:01 2021 +0200
+
+    protect pyenv command for web setup
+
+[33mcommit 9694ea78f509076f1a649e7df03de177cd9a0e90[m
+Author: Gaetan Manchon <gmanchon@gmail.com>
+Date:   Mon Jul 5 14:34:25 2021 +0200
+
+    add a profile to the setup in order to handle the PATH for pyenv
+
+[33mcommit f30d1b4776d1f020dbe672ff7c39f5e0a253f659[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Wed Jun 23 15:40:00 2021 +0200
+
+    fixes #89
+
+[33mcommit 9e3507f511b29069c3bae5b237a2f3ba7b41bf80[m
+Merge: 93cc99e 647f3b2
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Wed Jun 23 10:12:28 2021 +0200
+
+    Merge pull request #85 from lewagon/vscode
+    
+    VS Code for Web Dev
+
+[33mcommit 647f3b253ca12f5c4fc07c3bdd3bd5fd333ca46c[m[33m ([m[1;31mupstream/vscode[m[33m, [m[1;31morigin/vscode[m[33m)[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Wed Jun 23 10:11:57 2021 +0200
+
+    remove sublime setting
+
+[33mcommit b3c645845b2f4b0f68ddfbb1afa28fabfecda2e5[m
+Merge: 3a8a127 93cc99e
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Wed Jun 23 10:11:39 2021 +0200
+
+    solve conflicts
+
+[33mcommit 3a8a1273d2428f2064d082cfebe586268d5aae0f[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Jun 22 11:44:56 2021 +0200
+
+    merge settings from web dev and data science
+
+[33mcommit 2e1562ed0458f8c80265a27cc37b56ce76c3a360[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Jun 22 09:55:12 2021 +0200
+
+    dotfiles are for web and data students
+
+[33mcommit d4bf6b7ad6b4641aaa2d9acd26a5a1927490ad03[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:57:45 2021 +0200
+
+    fix ssh key file name
+
+[33mcommit 38211f7aa4fc4ac8cea2af835871368876d949a1[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:54:27 2021 +0200
+
+    refactor symlink function
+
+[33mcommit 07282c6586b5b69d9dce68d2ee9b51404d444666[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:43:41 2021 +0200
+
+    force to redo the symlink if already exists
+
+[33mcommit 0f771c56301b251b1d38d6a2383106ed2eafe05a[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:40:14 2021 +0200
+
+    remove temp echo
+
+[33mcommit 1a572c9f8c7fdb3712d0fb35415c642321ba2db2[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:32:56 2021 +0200
+
+    update condition
+
+[33mcommit 79ba57cebd654afe74f736db69246fbec4d96ea0[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:25:23 2021 +0200
+
+    fix ssh key name
+
+[33mcommit c17034bafa5622d5624f072e3475120961b8c581[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:21:57 2021 +0200
+
+    add &
+
+[33mcommit b7fa9f349abe7083a4d9426772a0523e6f593686[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:19:28 2021 +0200
+
+    fix typo
+
+[33mcommit 3b23d3d29445150a7bd177cd3d0c6bb452f8383c[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:17:16 2021 +0200
+
+    add if nvm in load-nvmrc script
+
+[33mcommit f60e551cd2b60cc72154b23f8554c4afaf9a789e[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:14:03 2021 +0200
+
+    remove load-nvmrc precondition
+
+[33mcommit 860da75bd83fdeab899bbd696eefcc82e3ec1e75[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 15:09:06 2021 +0200
+
+    protect load nvm
+
+[33mcommit 0e657e2ffc98d2d78c948cda5f79d14a341e02a7[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 14:48:35 2021 +0200
+
+    update Darwin
+
+[33mcommit 1142a968d39e75ca55adbe4e8f882d1e6a79d198[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jun 21 12:26:56 2021 +0200
+
+    add env var to disable warning
+
+[33mcommit 90f068acefd2090dbc3dfbac3256351d27db46f8[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 09:12:41 2021 +0200
+
+    protect load_nvmrc call when nvm is not installed yet
+
+[33mcommit 99bf41f84050c69582999236b85f8fdec166ac39[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 09:06:45 2021 +0200
+
+    remove git config editor command and add the corresponding line in gitconfig file
+
+[33mcommit a0c3967230422cfd41fd06817a67f9a4d293b26d[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 09:04:08 2021 +0200
+
+    add code as editor in gitconfig
+
+[33mcommit 34747cf9eb37cc4401b6572f37aa5ae84b297631[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 08:56:18 2021 +0200
+
+    update wsl code path
+
+[33mcommit a91a7a1b895326e6470381b0f3e1afbe9ac82d17[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 08:47:15 2021 +0200
+
+    update code path for wsl
+
+[33mcommit cab3bcbba276951601d3cd43660da180490735c6[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 08:28:05 2021 +0200
+
+    remove unused files and ssh-add for macos
+
+[33mcommit 2d4458c9a492b722b55591a38bb1de3b74aa7b04[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 08:18:57 2021 +0200
+
+    update config
+
+[33mcommit 25d7dac1499724e6617d741c4107c6322a89393d[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Jun 18 08:17:19 2021 +0200
+
+    import default vscode settings.json
+
+[33mcommit 6ff2ae0bbe9cb5f85e7d948ee9d31c0e05f0201b[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Apr 6 16:01:04 2021 +0200
+
+    refactor install.sh
+
+[33mcommit f62be17f9206017733526353f4de3295fb15c0a4[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Apr 6 15:48:13 2021 +0200
+
+    adding a new dotfile for ssh passphrase management on macos
+
+[33mcommit 5cf33acc70681f5af6258407a1fd8ba922e87f98[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Apr 6 13:14:33 2021 +0200
+
+    add ssh passphrase config file
+
+[33mcommit a89b7551b33302a65ffd37cc328ee287d6b7df0c[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Apr 5 17:35:16 2021 +0200
+
+    remove .git extension
+
+[33mcommit c288f20c9d51374e250ee2c3ffdeee3f390303a5[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Apr 5 12:58:58 2021 +0200
+
+    replace syntax highlighting extension protocol
+
+[33mcommit 159d33cc7eb0c55791ed4d273bf2a71edb7afaae[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Apr 5 08:46:32 2021 +0200
+
+    add disable git to vscode settings
+
+[33mcommit 88073e7660de2f0a3760cea89646826ff105d78e[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Sat Apr 3 15:16:48 2021 +0200
+
+    update vscode settings
+
+[33mcommit ace6f33928a16574a8009a0be46956f13315607b[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Sat Apr 3 12:51:09 2021 +0200
+
+    restore zshrc options
+
+[33mcommit 148223ba1a0288603df3b324cb5096fab39b4946[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Apr 2 10:01:53 2021 +0200
+
+    update vscode_settings.json
+
+[33mcommit 58307e833d6d4442cd157ff5749cf953daa8a5b8[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Apr 2 09:09:32 2021 +0200
+
+    exclude vscode settings from home symlinks
+
+[33mcommit c80f17ea78a8fc276a52e271f0652eba2f58f683[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Apr 2 09:01:47 2021 +0200
+
+    override existing symlink
+
+[33mcommit b770cf2704e0c992c2934e8f928830da83d56d24[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Apr 2 08:52:26 2021 +0200
+
+    fix bug and restore backup command of vscode settings
+
+[33mcommit 7833fdc6a10d096d8345b01488de185e4bc10abc[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Thu Apr 1 17:20:27 2021 +0200
+
+    update install.sh
+
+[33mcommit b56de439608b4b4deddf64198d6117b5bab855e5[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Thu Apr 1 17:09:59 2021 +0200
+
+    remove sublime linter sublime settings
+
+[33mcommit 8c66ffcb6a9d0c0495bb8608a747118f93b023f2[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Thu Apr 1 17:08:11 2021 +0200
+
+    remove package control
+
+[33mcommit 0c7a16a34eaeeaf961659e29c666bd87dc43566e[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Thu Apr 1 16:57:56 2021 +0200
+
+    updating install.sh
+
+[33mcommit 266faefdd44146d24ea16e3954372ea04f3445fc[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Wed Mar 31 17:32:27 2021 +0200
+
+    add vscode settings
+
+[33mcommit 93cc99e38c5974bc23f98d6f5461e31e0597bf27[m[33m ([m[1;31mupstream/sublime[m[33m, [m[1;31morigin/sublime[m[33m)[m
+Merge: d9ffcd6 a5419c5
+Author: Baranger Benjamin <baranger.benjamin@gmail.com>
+Date:   Wed Mar 10 12:34:11 2021 +0100
+
+    Merge pull request #83 from lewagon/branch-load-nvm
+    
+    Don't load nvm function if nvm is not installed
+
+[33mcommit a5419c53858c60d0e803d8ad54ab585e93047ec0[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Mar 9 16:09:40 2021 +0100
+
+    load only if nvm is installed
+
+[33mcommit d9ffcd698ac9ee7b86dac24e0b6014619ac43d84[m
+Merge: ecf0523 b6bb2a3
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Jan 11 12:33:21 2021 +0100
+
+    Merge pull request #81 from ElvisDot/pr-fix-packlist
+    
+    Fix missing comma in stt packlist
+
+[33mcommit b6bb2a38f12f1bcc7185389f277e57dd57f1fd93[m
+Author: ElvisDot <43215015+ElvisDot@users.noreply.github.com>
+Date:   Mon Jan 11 11:55:38 2021 +0100
+
+    Fix missing comma in stt packlist
+
+[33mcommit ecf05233a043db17577cbe2fdbc0e5c060cca29d[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jan 11 10:04:34 2021 +0100
+
+    reverting to usual NVM dir
+
+[33mcommit d13598e2ceda285f04a2d1b69e7d262fea40135c[m
+Merge: d48b9de 40042bd
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jan 11 08:08:22 2021 +0100
+
+    Merge pull request #79 from lewagon/sort-sublime-packages
+    
+    sort sublime package list
+
+[33mcommit 40042bdcaec03286a332d2a3eaa55f6277c89d82[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Jan 11 08:06:56 2021 +0100
+
+    update nvm path
+
+[33mcommit 377dd935f3374fe527369241fa2ba992c45ff7c1[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Sat Jan 9 15:09:58 2021 +0100
+
+    sort sublime package list
+
+[33mcommit d48b9ded3570767a12912541548c4ae257f2688d[m
+Merge: aff9529 8063c92
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Tue Jan 5 12:04:14 2021 +0100
+
+    Merge pull request #78 from lewagon/fix-zsh-syntax-highlighting
+    
+    git clone zsh autosuggestions
+
+[33mcommit 8063c92be4f7f4f94d11ed88c1c666d2557ba03b[m
+Author: Julien Da Silva <julien@lewagon.org>
+Date:   Tue Jan 5 10:43:28 2021 +0100
+
+    git clone zsh autosuggestions
+
+[33mcommit aff9529db5d4ee7ae1b0bfd7797301b43dd184f4[m
+Merge: 0ead939 3b9fdb7
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 16:29:21 2020 +0100
+
+    Merge pull request #77 from lewagon/python-linter-code-formatter
+    
+    add flake8 linter and AutoPEP8 formatter
+
+[33mcommit 3b9fdb7f6517de517dc38888271c57037b0be012[m
+Merge: d206cd7 0ead939
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 16:06:42 2020 +0100
+
+    Merge branch 'master' into python-linter-code-formatter
+
+[33mcommit 0ead9391668f3fac7dc61cd925f548ae810e558e[m
+Merge: 7b62a11 00b400c
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 16:03:40 2020 +0100
+
+    Merge pull request #76 from lewagon/docstring
+    
+    add anaconda package to sublime text
+
+[33mcommit d206cd7b78903707faac9cd6913d934e4da3ac2f[m
+Author: kevin robert <kevin.j.robert@gmail.com>
+Date:   Thu Dec 31 13:53:30 2020 +0100
+
+    add flake8 linter and AutoPEP8 formatter
+
+[33mcommit 00b400cd4b07d48259a9280e00bd1f4b2dc3cae9[m
+Author: kevin robert <kevin.j.robert@gmail.com>
+Date:   Thu Dec 31 13:38:29 2020 +0100
+
+    add anaconda package to sublime text
+
+[33mcommit 7b62a1109a549116f96894592cd41a27dea93dd1[m
+Merge: bc46b6d 528adc6
+Author: Kevin ROBERT <kevin.j.robert@gmail.com>
+Date:   Thu Dec 31 12:12:55 2020 +0100
+
+    Merge pull request #75 from lewagon/pyenv
+    
+    Add Python activated environment to the right prompt
+
+[33mcommit 528adc6cf0876a8af63b75590ddd8e8204e3e902[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 12:08:02 2020 +0100
+
+    Add Python activated environment to the right prompt
+
+[33mcommit 6fe767fac7a44e5923ee4d2ce112d4ae1bd601c5[m[33m ([m[1;31mupstream/show-virtualenv[m[33m, [m[1;31morigin/show-virtualenv[m[33m)[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 11:04:41 2020 +0100
+
+    Disable PYENV_VIRTUALENV_DISABLE_PROMPT
+
+[33mcommit bc46b6db1ebdf9e14c0afdebf12fb3debb2b2c74[m
+Merge: 008ed0a 4d3aa90
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 00:06:19 2020 +0100
+
+    Merge pull request #73 from Lomig/fix-warning-during-pull
+    
+    Add default pull reconciliation strategy for git
+
+[33mcommit 008ed0a908c436192f3957d9ca24e43fbe9bea25[m
+Merge: 5be0d93 28e8446
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Dec 31 00:05:56 2020 +0100
+
+    Merge pull request #74 from lewagon/stop-loading-virtualenv
+    
+    remove virtualenv auto-loading
+
+[33mcommit 28e84464fc25ab19e95d133881768f707b541269[m
+Author: kevin robert <kevin.j.robert@gmail.com>
+Date:   Wed Dec 30 18:38:44 2020 +0100
+
+    remove virtualenv auto-loading
+
+[33mcommit 5be0d93b5068a22be48d52cc3f7928680ace4b3a[m
+Merge: 716592c 62ff172
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Dec 22 17:48:39 2020 +0100
+
+    Merge pull request #72 from lewagon/update-nvm-load
+    
+    update nvm load
+
+[33mcommit 4d3aa9033c29110f2a1d95b447d252ad024d92d6[m
+Author: Lomig Enfroy <lomig@hey.com>
+Date:   Wed Dec 2 09:09:03 2020 +0100
+
+    Add default pull reconciliation strategy for git
+
+[33mcommit 62ff172d0c9d5119cd9d3730884f464e2b520672[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Mon Nov 23 10:22:07 2020 +0100
+
+    silence nvm to remove unecesary stdout
+
+[33mcommit 6011a65798eaf54628aae8568ef5a0ce9ea79c7f[m
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Fri Nov 20 12:06:45 2020 +0100
+
+    update nvm load
+
+[33mcommit 716592cfc806d2b357f96d674328aaf900d611e4[m
+Merge: 2d32105 acfcea4
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Wed Oct 7 08:52:04 2020 +0200
+
+    Merge pull request #67 from hjlarry/patch-1
+    
+    Update zshrc comment
+
+[33mcommit 2d3210524e4cae7b165e278db7d186a0a48c801f[m
+Merge: f104b06 dd1f4e8
+Author: Baranger Benjamin <baranger.benjamin@gmail.com>
+Date:   Wed Jul 8 13:30:42 2020 +0200
+
+    Merge pull request #69 from lewagon/ignore-python
+    
+    ignore Python
+
+[33mcommit dd1f4e88457e624ed1d5c4384498720ff26aa4dd[m
+Author: kevin robert <kevin.j.robert@gmail.com>
+Date:   Wed Jul 8 12:34:35 2020 +0200
+
+    ignore Python
+
+[33mcommit acfcea49ac2481976daa13cdf37da279ede2455d[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Thu Jul 2 11:03:32 2020 +0800
+
+    Update zshrc comment
+    
+    the old homebrew analytics url is 404
+
+[33mcommit f104b063cdabf905f47ea5607f25975612dfd7b6[m
+Merge: 046c269 f61c1fd
+Author: Damien Milon <37899667+dmilon@users.noreply.github.com>
+Date:   Tue Jun 30 09:48:37 2020 +0200
+
+    Merge pull request #66 from lewagon/fix-color-highlight-package
+    
+    Fix color highlight package
+
+[33mcommit f61c1fd774f957c3aa47fe23612a922079b13683[m
+Author: Damien Milon <milon.damien@gmail.com>
+Date:   Tue Jun 30 09:48:08 2020 +0200
+
+    Fix color highlight package
+
+[33mcommit 046c2691c5c28158c9f17b6821cd6347310b8210[m
+Merge: fe2b96c 0a0c6fb
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Jun 21 17:05:29 2020 +0200
+
+    Merge pull request #61 from primaulia/patch-2
+    
+    Update Package Control.sublime-settings
+
+[33mcommit fe2b96c79bbcde5ba24b3bbdd64aceaef76cf1f7[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon May 25 22:59:38 2020 +0200
+
+    Change default aliases
+    
+    Fixes #58
+    Fixes #41
+
+[33mcommit 0a0c6fb06097e0079b92b45d046974896cdaa548[m
+Author: Prima Aulia Gusta <primAulia@gmail.com>
+Date:   Sat Apr 18 09:57:17 2020 +0800
+
+    Update Package Control.sublime-settings
+    
+    add `ColorHighlight` as one one of the default package
+
+[33mcommit 9b4c389d527c229f5e28eee4da6a76b99fade49d[m
+Merge: 97dc215 efb51d3
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Sun Mar 15 13:39:07 2020 +0100
+
+    Merge pull request #57 from primaulia/patch-1
+    
+    add `BracketHighlighter` as default setup pack
+
+[33mcommit efb51d3976206dfc87a887b024077c5806241829[m
+Author: Prima Aulia Gusta <primAulia@gmail.com>
+Date:   Sat Mar 14 17:04:53 2020 +0800
+
+    add `BracketHighlighter` as default setup pack
+    
+    More and more student is having unnecessary error for not closing their brackets, this additional package can help them to notice them easily
+
+[33mcommit 97dc215852629c24f67badf7c1f2bad0d985abe6[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat Jan 11 22:38:24 2020 +0100
+
+    Fix rbenv + pyenv on Linux
+
+[33mcommit ec927a72a3cc6c602c40eec74558055847c305f2[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat Jan 11 12:41:35 2020 +0100
+
+    Prepare setup for Data Bootcamp (pyenv / virtualenv). Should not conflict with Web Bootcamp
+
+[33mcommit facb0985feeaaa8b25a4148542dc4ebb515882dd[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Oct 7 11:55:38 2019 +0200
+
+    Anaconda prompt
+
+[33mcommit d072f9ea2f55668162d5b7c25046ac58a148642e[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Oct 6 23:19:20 2019 +0200
+
+    Latest package install
+
+[33mcommit 91b83089e53dc08c379d22107c35a3c525516f4d[m
+Merge: 4b4b236 aec7b13
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Oct 6 09:38:41 2019 +0200
+
+    Prepare profile for Data Bootcamp
+
+[33mcommit 4b4b236fdf0a1af451a5f93b64325dd6e0584223[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Oct 6 09:36:53 2019 +0200
+
+    NVM + Anaconda in PATH
+
+[33mcommit b4223c02eda3b9f7dd9a68b06279dc233a4cae29[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Oct 6 09:33:18 2019 +0200
+
+    Remove gitfast plugin
+
+[33mcommit aec7b134b044543b8c7993dea4a52b93a6b7377f[m
+Merge: 1d187d3 30be28d
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Aug 29 19:00:59 2019 +0200
+
+    Merge pull request #42 from calvintan/master
+    
+    Fix typo on Sublime Text setting
+
+[33mcommit 30be28d9797da4c29a31832c66961ab693c957c2[m
+Author: Calvin Tan <6238745+calvintan@users.noreply.github.com>
+Date:   Mon Jun 17 13:27:01 2019 +0800
+
+    Fix typo on Sublime Text setting
+
+[33mcommit 1d187d3a1fecf1cce8954af3841bf9d045ae21a7[m
+Merge: b7cee2c a481e05
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Apr 11 09:34:06 2019 +0200
+
+    Merge pull request #38 from lewagon/add-git-plugin
+    
+    add git plugin to restore gitfast aliases
+
+[33mcommit a481e0566fa2022a693ba87626cf4d04174926b8[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Thu Apr 11 09:32:46 2019 +0200
+
+    add git plugin to restore gitfast aliases
+
+[33mcommit b7cee2cf081b916a467a7e695d264b990cd9d56c[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sun Apr 7 19:57:16 2019 +0200
+
+    Fixes lewagon/setup#94
+
+[33mcommit 5cfd7243db12f684055ca2f9b570709ec8a19b85[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jan 15 16:00:34 2019 +0100
+
+    Fixes #30
+
+[33mcommit 9532ec08b3021abd1adadf0c8b1c5b21a0ba491b[m
+Merge: b9e2898 a6a30c2
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Jan 7 11:56:16 2019 +0100
+
+    Merge pull request #33 from lewagon/remove-a-file-icon
+    
+    remove A File Icon
+
+[33mcommit a6a30c25c47d91a921f20040951240d2b3e27a9f[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Mon Jan 7 11:33:54 2019 +0100
+
+    remove A File Icon
+
+[33mcommit b9e289845d56859bccaa5d562750a1a82f833e2b[m
+Merge: 332e2c2 6aae8d8
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jan 1 10:55:02 2019 +0100
+
+    Merge branch 'master' of github.com:lewagon/dotfiles
+
+[33mcommit 332e2c2ea0cc7bff4cebb709e85335c697a5a9da[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jan 1 10:54:52 2019 +0100
+
+    Disable GitGutter
+
+[33mcommit 6aae8d875a23e434763c806e839a7be76583c73e[m
+Merge: 038fd5e bf7d33f
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Tue Jul 3 10:53:54 2018 +0100
+
+    Merge pull request #29 from lewagon/add-ruby-linter
+    
+    add ruby linter dotfiles
+
+[33mcommit bf7d33f6a9fbab8f9b51baa42429ea04cc6ba415[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Tue Jul 3 11:06:55 2018 +0200
+
+    remove linters config key
+
+[33mcommit eb2d7b1124acfbcfcd4146c84d4449192d43d96a[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Tue Jul 3 10:02:22 2018 +0200
+
+    add line to symlink prefs to dotfiles
+
+[33mcommit 6744958af390ba5237f4ff2bea94ca85162e0f9a[m
+Author: Edward Schults <edward.schults@gmail.com>
+Date:   Mon Jul 2 18:32:31 2018 +0200
+
+    add ruby linter dotfiles
+
+[33mcommit 038fd5ef041a1be7ad49e313125135c9257ae6b2[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jan 30 11:41:17 2018 +0100
+
+    Detail toolset
+
+[33mcommit 7e91c76cdb09ebebca120afcc135b3dd8b038ed5[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Jan 29 16:23:33 2018 +0100
+
+    GitHub API does not always provide with the email. Remove this code (check.rb will handle it)
+
+[33mcommit 5a9c0d1f1900341ba3529d4544c4275a818e1cc8[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Dec 11 21:32:24 2017 +0100
+
+    Update default ST plugins
+
+[33mcommit 695e2490a7ca44a72a782f2c581d031df1ce8b90[m
+Merge: 8f2b5a9 f54517e
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Dec 1 09:41:18 2017 +0100
+
+    Merge branch 'master' of github.com:lewagon/dotfiles
+    
+    # Conflicts:
+    #       Preferences.sublime-settings
+
+[33mcommit 8f2b5a9aea8d9e1aa2c59b8cb8c852cdfc4dd54b[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Dec 1 09:40:31 2017 +0100
+
+    bundle open will append the gem to the current Sublime Text active window
+
+[33mcommit 6afa29071544504d54aec2135687b030682436c1[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Dec 1 09:40:01 2017 +0100
+
+    Disable interactive rm by default
+
+[33mcommit 3f65fa0315a527c19347a2c85a113fd05399dc48[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Dec 1 09:39:49 2017 +0100
+
+    Update Sublime Text preferences (no minimap + more excluded folders
+
+[33mcommit f54517ed7128e3798ddbeb4c6995443375d1948e[m
+Merge: e43007b 0ef5b82
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Wed Nov 22 10:52:05 2017 +0100
+
+    Merge pull request #20 from fcatuhe/skip-sublime-settings
+    
+    skip symlinking of *.sublime-settings files in home directory
+
+[33mcommit 0ef5b82e7c64a2dc12642993a0359e2896e9d9de[m
+Author: Francois Catuhe <fcatuhe@gmail.com>
+Date:   Mon Nov 20 12:12:33 2017 +0100
+
+    skip symlinking of *.sublime-settings files in home directory
+
+[33mcommit e43007bb67196d533eec08a3ce668cdfbc0f4286[m
+Merge: 94dc677 c144b83
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Nov 10 15:17:29 2017 +0000
+
+    Merge pull request #18 from alex-felix/patch-1
+    
+    adding nodemodules to ignored folders
+
+[33mcommit c144b83b84bd4b6b1538933ec4624e7f13706662[m
+Author: Alex Benoit <alexander.benoit@outlook.com>
+Date:   Fri Nov 10 15:06:24 2017 +0000
+
+    adding nodemodules to ignored folders
+
+[33mcommit 94dc6778d0aa7c37e073308eec44e67e2b43bc37[m
+Merge: c7301a0 9984be9
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Oct 3 22:26:59 2017 +0200
+
+    Merge pull request #15 from atmosfeer/patch-1
+    
+    Changed the ~ sign to $HOME
+
+[33mcommit 9984be99371cdf5dd01178211d46899706c0597e[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Oct 3 22:26:41 2017 +0200
+
+    Update zshrc
+
+[33mcommit e020c82de663458192aaa3140969960ccb67fc56[m
+Author: Nicolas Feer <atmosfeer@gmail.com>
+Date:   Tue Oct 3 20:27:35 2017 +0200
+
+    Changed the ~ sign to $HOME
+    
+    Had to do a reinstall of a student's laptop after their keyboard stopped working (failed ubuntu update). Previous setup didn't work until I changed the ~ to $HOME on line 17
+
+[33mcommit c7301a05a8e9acb793bba33e5e895dce38835938[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Oct 2 19:29:29 2017 +0200
+
+    Simplify rbenv install. Go back to default path
+
+[33mcommit 8e2fab3fe5201d1ce8828114d653420e4e2ec7e0[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Oct 2 19:07:29 2017 +0200
+
+    brew is now part of homebrew 1.0 release
+
+[33mcommit fff5b15dae2c6fa537fd082ce16ef5c145f1867d[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Oct 2 14:32:59 2017 +0200
+
+    Protect eval rbenv init
+
+[33mcommit aa9cb15d9fd895624a6f02e9518a80474213bac5[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Oct 2 14:31:11 2017 +0200
+
+    Protect eval rbenv init
+
+[33mcommit 6e603362c857f2f0b482d74d0540416214ff4dd6[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Thu Sep 21 20:05:12 2017 +0200
+
+    Update rbenv init
+
+[33mcommit 0a58be7b70ef80333e754cf61f56f4799029fc87[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Sep 18 16:25:49 2017 +0200
+
+    Disable rbenv as an .oh-my-zsh plugin. Fixes lewagon/setup#40
+
+[33mcommit a4cbf035d9605e27145533be74ad49ecf1a188ff[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Aug 1 01:09:38 2017 +0200
+
+    Add ./node_modules/.bin to $PATH
+
+[33mcommit 05a0767978f33d0704b219f65102790c46f481ff[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Jan 8 21:00:28 2017 +0100
+
+    Do not fail if GITHUB_EMAIL is empty from API
+
+[33mcommit b9a0541085b4fbecbedb4ed75d3bc0f507f956d1[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Nov 27 17:16:44 2016 +0100
+
+    Prevent Homebrew from reporting
+
+[33mcommit f9a8c920ee221462db01e209cce382e3b573dc01[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Oct 10 15:23:37 2016 +0200
+
+    Do not advise to restart terminal after setup
+
+[33mcommit a01d003b8e463b2ffe9bc81bd7335c596da7b089[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Oct 10 15:21:38 2016 +0200
+
+    Do not automatically check Sublime Text updates
+
+[33mcommit 6ccf48f6f39e1e87bf62ff2e9c509c206e74dc76[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Oct 7 20:58:43 2016 +0200
+
+    Add /usr/local/sbin to default PATH
+
+[33mcommit ac16321bca395c100987af100fd352d3963c1372[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Aug 8 12:23:47 2016 +0200
+
+    Update Sublime Text default plugins
+
+[33mcommit 3533598367a1c92fcbec7a1e3aa11b17fa8a5286[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Aug 3 10:37:34 2016 +0200
+
+    During Linux Setup, do not complain about rbenv not being there yet
+
+[33mcommit edaae72e7832cbfd95704b8d4b000539acc48bc1[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue Jun 28 23:17:06 2016 +0100
+
+    Make sure that during the git_setup.sh the email configured is the same as the one in GitHub
+
+[33mcommit 8ac8174802f6794d4230f757b16f5b8334a08d7f[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon May 30 11:36:25 2016 +0200
+
+    Get rid of insecure curl Sublime Text Package Control on Ubuntu
+
+[33mcommit 6c4b60bbddc8c77154a4abf9d9d8fe86124091b3[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Apr 18 10:58:45 2016 +0200
+
+    Let the system choose where to store rbenv stuff
+
+[33mcommit d8ec441e3eb2eb9459bd7028eda13997a087fc08[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Apr 18 09:58:08 2016 +0200
+
+    More understandable zshrc
+
+[33mcommit 00377b389054c0c42166c5b3b44b41dc4aa6221a[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Sun Feb 7 21:59:21 2016 +0100
+
+    binstubs > heroku > gems
+
+[33mcommit 84e9ae54cfdceccedc7525b011730b98723d8475[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat Jan 16 20:10:29 2016 +0100
+
+    Do not use the bundler plugin
+
+[33mcommit 95c3e60cbca7cb22656e35103c01321be2a1b462[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Dec 29 10:29:41 2015 +0100
+
+    No need to bind key with official history plugin
+
+[33mcommit fa152d453cc696dbdb942bd7cf966b568195f359[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Dec 28 20:13:04 2015 +0100
+
+    Redundent '.bin'
+
+[33mcommit 16d084aea84b95a6159c17effdeae91100185519[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Dec 28 19:48:14 2015 +0100
+
+    history-substring-search is now an official plugin
+
+[33mcommit 9ce997eeca43bbe71999045e81ccd5f35c919815[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Fri Dec 18 13:18:26 2015 +0100
+
+    Add bundler plugin
+
+[33mcommit 9a103b8abd061865bd1908d45cdb1cbb957948ac[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Fri Dec 18 13:17:47 2015 +0100
+
+    Add ruby version to prompt
+
+[33mcommit 9b26143a3e8674e0776df197d4c3f74c6042a13b[m
+Author: Sebastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Dec 14 18:07:31 2015 +0100
+
+    Default theme and color scheme
+
+[33mcommit 12e54f776e7c7e22b74ec602ab7ea4bd3dcac922[m
+Merge: 2da817a 88bfd7f
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Dec 14 12:50:28 2015 +0100
+
+    Merge pull request #10 from lewagon/2016
+    
+    2016 Configuration for Le Wagon with Sublime Text 3 auto-setup
+
+[33mcommit 88bfd7f3fab27cd62cd278f05d8f20d82298a041[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Dec 14 12:43:09 2015 +0100
+
+    tabs -> spaces
+
+[33mcommit d54a53a1772eaf442e66e954c6454129c4263d58[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Dec 14 12:39:31 2015 +0100
+
+    Sublime Text configuration
+
+[33mcommit 2da817a00711a392325ee4515bde5cc4dc0770ec[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun May 10 17:20:02 2015 +0200
+
+    Remove user section
+
+[33mcommit f9fc805aa06310cb1e6f32c46796f1b6b86842f7[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue May 5 11:17:46 2015 +0200
+
+    Add remote
+
+[33mcommit 7bd550f92b79382b0382caadd3b9cf29cb301d92[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue May 5 11:16:54 2015 +0200
+
+    Fix editor for Ubuntu
+
+[33mcommit be86a01e255f25cfa225c1ae91636576aac68bc5[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon May 4 12:57:14 2015 +0200
+
+    Add export
+
+[33mcommit c24f4432fb5fdbad9aafb5e0a644d09181f39a40[m
+Merge: 83fa111 9b8f6f1
+Author: Cecile Veneziani <cveneziani@users.noreply.github.com>
+Date:   Wed Apr 29 10:20:25 2015 +0200
+
+    Merge pull request #8 from lewagon/gitignore-dot-files
+    
+    Ignore .DS_Store files
+
+[33mcommit 9b8f6f1747d79529476899ad9139048774353b70[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Apr 29 10:13:54 2015 +0200
+
+    Ignore .DS_Store files
+
+[33mcommit 83fa11145763ae8051ae63122f7f9756e2404ecd[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Apr 29 01:38:07 2015 +0200
+
+    Fix bundle open
+
+[33mcommit 4692719c18eb5b6629bda013550a7e9cf230a0a2[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Mar 8 11:34:14 2015 +0100
+
+    Do not use bundler
+
+[33mcommit dbebd65c64d41f756ca59c786f51d308e5fff566[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat Mar 7 13:25:01 2015 +0100
+
+    Do not automatically push config
+
+[33mcommit bf08f3ffe9a9271664c93f1b11c262ca86d2eea9[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat Mar 7 13:00:37 2015 +0100
+
+    Update dotfiles with new goodies
+
+[33mcommit c022b64661a24a493d2b4c7e581ce9ed5508b156[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Feb 12 10:34:01 2015 +0100
+
+    Fix path for local bin folder
+
+[33mcommit a6e75715abd55f2012821432f8e9839c1de6917c[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue Feb 3 12:43:02 2015 +0100
+
+    Add local  folder to PATH (binstups)
+
+[33mcommit d5d2065906771a642fe746dfc2d19c21c9c0eb53[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Jan 11 12:05:04 2015 +0100
+
+    Fix lewagon/fullstack-challenges##27
+
+[33mcommit 78798c0ee549aef4c2a6ec9739dd815cfc7ec951[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Dec 26 21:48:57 2014 +0100
+
+    Update shebank
+
+[33mcommit a5689d6a658421be1b9af5f508257f970be00dba[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Dec 26 21:47:24 2014 +0100
+
+    install directly configures git
+
+[33mcommit 5cd61d57d28f900909ba236848a884b68121788e[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Oct 20 22:57:28 2014 +0200
+
+    Fix install.sh
+
+[33mcommit d82137cf6694ef5370bedb9c70b85b9efa7e5213[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Oct 20 22:53:01 2014 +0200
+
+    typo on rspec
+
+[33mcommit 8c45a041e01d5912f2505f045a3e1eee5ab63102[m
+Author: Boris Paillard <boris.paillard@gmail.com>
+Date:   Mon Oct 20 11:27:05 2014 +0200
+
+    Update README.md
+
+[33mcommit 1ae64427e9d258aff50d0c4f413cd49d53232a04[m
+Author: Boris Paillard <boris.paillard@gmail.com>
+Date:   Mon Oct 20 11:15:41 2014 +0200
+
+    Update README.md
+
+[33mcommit 7698f64dd089446bfd2091eef309e077b33af08e[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Oct 16 13:54:04 2014 +0200
+
+    No zshenv
+
+[33mcommit e606be2605b4e9de38d6edec5a9b01792618406c[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Oct 16 12:35:50 2014 +0200
+
+    Update readme, Fix #5
+
+[33mcommit 4e4646867fbac4a1d919af1d8d58355c377a62e9[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat Oct 4 16:42:25 2014 +0200
+
+    Add global rspec config
+
+[33mcommit 45d8bc09cc34aa19029442843cc5aaaa05604e13[m
+Merge: 7ec60fb 68179c8
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Sep 15 18:57:55 2014 +0200
+
+    Merge conflicts
+
+[33mcommit 7ec60fb3c948eb51478d407ab34e884f274697b9[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Sep 15 18:56:45 2014 +0200
+
+    Adding option not to open edit on merge
+
+[33mcommit 68179c8b9b4dfca0f706f98794c02e8111ac61f3[m
+Merge: 173ba2c 6c81690
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat Sep 6 20:57:27 2014 +0200
+
+    Merge pull request #3 from arnaudbouffard/patch-1
+    
+    corrected confusing typo
+
+[33mcommit 6c8169067b706a24a8e74269873f12d76239d4ca[m
+Author: arnaudbouffard <arn0n0@hotmail.com>
+Date:   Fri Sep 5 18:00:48 2014 +0200
+
+    confusing typo
+
+[33mcommit 173ba2cb77fda86752fa6a40e2e46dc242d9c6c4[m
+Merge: 6d05ee6 f3de5e7
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jul 29 19:18:04 2014 +0200
+
+    Merge pull request #2 from lewagon/enhancing-gitconfig
+    
+    Enhancing the gitconfig
+
+[33mcommit f3de5e77b32c97882aa59852627825cdfc002782[m
+Author: Simon Courtois <scourtois_github@cubyx.fr>
+Date:   Tue Jul 29 18:15:23 2014 +0200
+
+    Enhancing the gitconfig
+    
+    This commit changes the following settings.
+    
+    Editor:
+    -------
+    
+    The editor is now less -FRSX wish respect color codes and use a paging
+    mode only if the command output is longer than the screen. Pretty useful
+    for diff, log or lg commands.
+    
+    Status:
+    -------
+    
+    Adding -sb to git status. This will show the status in short version
+    which has proven to be more readable for students. It also displays the
+    distance (in commits) to the remote branch.
+    
+    Pretty log:
+    -----------
+    
+    The log format is also cleaned up since --abbrev-commit and --date=relative
+    are already provided by %h and %cr respectively.
+    
+    The branches list has been move to the end of the line to keep consistency
+    between lines.
+    
+    Finally, the --all flag shows every branches and stashed commits.
+    
+    Autocorrect:
+    ------------
+    
+    The help.autocorrect option tells git not to troll you by saying
+    'Did you mean git log' when you type 'git lgo' and other little mistakes.
+    
+    Unstage:
+    --------
+    
+    The git unstage alias was added to allow unstaging files that have been
+    added to the index. This is useful to "unadd" a file or unmark a
+    conflicting file.
+
+[33mcommit 45f025bf141d1b3d24c959254d860b289633923b[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Jul 9 11:12:46 2014 +0200
+
+    Changing install / git commit order
+
+[33mcommit 6d05ee695cfddbdfca352e0f0f57fab71c04072e[m
+Merge: 56bb03d 6d8c56a
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Wed Jul 9 11:11:23 2014 +0200
+
+    Merge pull request #1 from lewagon/git-editor
+    
+    Adding Sublime Text as Git editor
+
+[33mcommit 6d8c56a0bba9fe97bebb4f32163cae99805ed79c[m
+Author: Simon Courtois <scourtois_github@cubyx.fr>
+Date:   Wed Jul 9 10:48:10 2014 +0200
+
+    Adding Sublime Text as Git editor
+    
+    Previously, typing `git commit` would bring up vim whish could be
+    a bit scary for students. This commit uses the `subl` alias provided
+    by oh-my-zsh to set the git editor to `subl -n -w` correctly.
+
+[33mcommit 56bb03d4a4d2f219165d36077a02cd8e0b1580d3[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat May 24 08:59:54 2014 +0200
+
+    Do not talk about zshenv
+
+[33mcommit 7bbfb6d2f0a817c0e865438db8f4b9347fc14356[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat May 3 10:12:23 2014 +0200
+
+    Open sublime with just 's'
+
+[33mcommit e8178075658654466278b51e9afe8430eb5875f4[m
+Merge: 5400e45 e090a8e
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat May 3 10:08:58 2014 +0200
+
+    Merge branch 'master' of github.com:lewagon/dotfiles
+
+[33mcommit 5400e4558ab1045b2f0f94c9b4b593daad192ed8[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat May 3 10:08:51 2014 +0200
+
+    UTF-8 as default encoding
+
+[33mcommit e090a8e68c8ccc59664bdc7f8db0a13a2c814cac[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat Apr 26 10:37:36 2014 +0200
+
+    Update README.md
+
+[33mcommit c0e149d41cc32a76299849923261f23c977dba35[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Apr 7 17:51:48 2014 +0200
+
+    Shebang for installer
+
+[33mcommit ada7388d5199ef47fb64a8780731879570096a72[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Apr 7 08:46:30 2014 +0200
+
+    robbyrussel's theme is better at handling long paths
+
+[33mcommit 2d4917200c979b26abf6c4d5c3d26cfde4663750[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Apr 6 19:10:29 2014 +0200
+
+    Update readme
+
+[33mcommit 7a50187781a45fc987eb303165ef2b891e3e97fc[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Apr 6 19:06:55 2014 +0200
+
+    Fix some config in dotfiles
+
+[33mcommit be54d2f121cac9332ed33d462d7008fc3d3a2683[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Apr 6 11:53:26 2014 +0200
+
+    Clone to ~/code/:username
+
+[33mcommit cb2ab36e14ae6b7fde5603e84436fefd918001bb[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Apr 6 11:51:41 2014 +0200
+
+    Better readme
+
+[33mcommit f894306fd81502f1fe513dd253e3129f4b56874d[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat Apr 5 11:08:44 2014 +0200
+
+    No need to alias ~/code/lewagon
+
+[33mcommit cffd69632522b008abe19b336c170cb779cdf0ac[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Apr 4 17:22:35 2014 +0200
+
+    Simpler zshrc
+
+[33mcommit c86aae40570bcacc2591e120c95eeffcdf1779ca[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Apr 4 17:20:29 2014 +0200
+
+    Simple dotfiles for le wagon
+
+[33mcommit eae36bce29218102824f6f516eae88dd4fdaa421[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Apr 4 16:08:34 2014 +0200
+
+    Variable for Le Wagon
+
+[33mcommit 92e4418a8144519193954671f76e3e7c92040a86[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Fri Apr 4 15:49:24 2014 +0200
+
+    Fix history-substring-search key binding on my mac
+
+[33mcommit 071e860e5948a83512086226f9f7898eb6352097[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue Mar 4 19:56:53 2014 +0100
+
+    Bind UP and DOWN to zsh history search
+
+[33mcommit 51eb36368fce71807ea5a2431a8c7e96dc11b015[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Jan 26 09:29:38 2014 +0100
+
+    Using MarkdownEditing plugin
+
+[33mcommit 3d634cc4a468bd81cb2878614b8e3aa7c2ea681a[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sun Jan 5 16:28:50 2014 +0100
+
+    Update aliaseUpdate aliasess
+
+[33mcommit fa1ef5bf1576e30e9e4bace501cd69764863cecc[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Dec 18 14:17:15 2013 +0100
+
+    Try to introduce ccat in my workflow
+
+[33mcommit 568e964c2364296728c79961662d56a518edd1d0[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Dec 18 14:17:05 2013 +0100
+
+    Use cat as pager, not less
+
+[33mcommit 06806d744210c6403015056fca9e0d667f212989[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Dec 18 14:16:54 2013 +0100
+
+    Use backspace key to delete content before caret
+
+[33mcommit ee6368799c8b988ad83ca0cfdeb3a7b4ec8b4cb2[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue Dec 10 12:12:09 2013 +0100
+
+    Add org-pr helper
+
+[33mcommit 5356fc2b90a701dd0bc0881d18adec591b3cc532[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Tue Dec 10 10:48:45 2013 +0100
+
+    Update Zsh plugins
+
+[33mcommit 8865d59e0c8d5d38d4c25ead5e146be3bce55f10[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Dec 5 17:40:46 2013 +0100
+
+    Use ruby instead of python for serve
+
+[33mcommit 03d201d82ab3355f669dc242711610c28357db28[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Dec 5 17:40:15 2013 +0100
+
+    Ignore more folders (Grunt, Bower, etc...) in Sublime
+
+[33mcommit a77303879c0b0c0b9f99b6275846f4c4298027c1[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Nov 6 10:24:17 2013 +0100
+
+    Ignore .idea and .bundle folders
+
+[33mcommit 838b3e641cf088c4c9c15646bc576545a5a04453[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Wed Nov 6 10:23:19 2013 +0100
+
+    Add tunnel aliases
+
+[33mcommit 5e2c5379dd8fdf3e5c48501936b6deb67e1db2f1[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Sat Oct 26 08:48:33 2013 +0200
+
+    Noglob bower for oh-my-zsh
+
+[33mcommit 10c39660c3b9e4b8d786a1cfd77397cb8386a3a6[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Thu Oct 10 00:20:27 2013 +0200
+
+    Use CTags plugin in Sublime
+
+[33mcommit 96b07aef3befbbcce6fe58eef207fb6b3c76f7e6[m
+Author: Sebastien Saunier <seb@saunier.me>
+Date:   Mon Sep 23 15:48:27 2013 +0200
+
+    Remove accent in first name for prettier git log messages...
+
+[33mcommit e8e8ceaf9ecfcd62fa5e5bb470b07893f8ebbdb0[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Sep 20 15:12:19 2013 +0200
+
+    Speedtest internet connection from command line
+    
+    Source: http://osxdaily.com/2013/07/31/speed-test-command-line/
+
+[33mcommit bfadbed3c916e355480e0b96b6937ea342e8dbb4[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Sep 16 15:23:32 2013 +0200
+
+    udpate gemrc
+
+[33mcommit 5b86d29db7ac41898c8a3b5f366e17347fdca2b2[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Sep 16 15:00:58 2013 +0200
+
+    Add aliases to the dotfiles repo
+
+[33mcommit 56f8d3b5827b37720454c34ecacea414f735cef2[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Sep 16 15:00:42 2013 +0200
+
+    Latex binary
+
+[33mcommit 155299fe526ce91a9b0d3dc2b16f77135d43c039[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri Aug 23 11:37:26 2013 +0200
+
+    Not using tmux...
+
+[33mcommit 50a4037ca878d41693d61b33ac6b55ee0f3df216[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Jul 29 00:32:47 2013 +0200
+
+    Jekyll => ignore "_site" folder
+
+[33mcommit 50d4bdcd175bff07cd3d0f5446dce4e3b75cf2f7[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Mon Jul 29 00:32:31 2013 +0200
+
+    Updated git to 1.8 with simple push
+
+[33mcommit c17dcb2f521ed5bc47fbf88d4b36958f1f089e9e[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jul 9 17:25:46 2013 +0200
+
+    No need to put a question mark for the xarg git.
+
+[33mcommit eb04cce1973008f3eb6bfd59e516ed04a619905a[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Tue Jul 9 15:23:52 2013 +0200
+
+    Add `git sweep` to remove merged branches from local repository.
+
+[33mcommit 56bd7800289eb2d3514e0a2b872fbb3c9ead0cb5[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Sat May 25 23:00:31 2013 +0200
+
+    Sublime text tailing slash plugin updates config key
+
+[33mcommit 86e48a4c214e81b50f22d90fc6ec9a60ce2ca46a[m
+Author: Sébastien Saunier <seb@saunier.me>
+Date:   Fri May 24 22:36:12 2013 +0200
+
+    Using my personal domain email address
+
+[33mcommit 307ec4c10528f6cccfbbce874b1cf4f096a927ca[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Apr 16 10:14:36 2013 +0200
+
+    Adding shims to path
+
+[33mcommit 9ef672971bee410be306023fbd78d0399b259c89[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Apr 16 10:04:53 2013 +0200
+
+    Use rbenv instead of rvm
+
+[33mcommit cc0ac99b8697877588729f04d7ab2d33c05431d5[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Apr 9 18:12:43 2013 +0200
+
+    Update the way we discriminate files to link to ~
+
+[33mcommit d9e16de0e15522dd5a926b6a6c9699d8ef9ecf05[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Apr 9 18:09:41 2013 +0200
+
+    Ading simple vimrc (2 spaces indent) and tmux config
+
+[33mcommit 9a71d0e96a183d410624a62341cb429cb1d32724[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Thu Jan 17 11:07:50 2013 +0100
+
+    3 aliases for git: git d, git dt, git stat
+
+[33mcommit 644a9151a0214fe0cc2e53d3c2fd416633c2d440[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Jan 8 16:52:14 2013 +0100
+
+    Adding the pager to cat to stay in the terminal
+
+[33mcommit 9e1b5b9ac82f227dd352e4a559d16b3e607b7328[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Dec 10 11:25:51 2012 +0100
+
+    Use Soda for Sublime and change zhsrc theme
+
+[33mcommit 5fde3902bea47650c10d84f55e03cf0852a0530c[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Mon Nov 12 08:14:02 2012 +0100
+
+    Remove push default setting
+
+[33mcommit 261159679afc3735d13d361bc4e1f634f3050ade[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Thu Nov 1 10:18:36 2012 +0100
+
+    git push simple config + adding node bin to path
+
+[33mcommit 59674649e0a01bf0382e967d5d51ff9a0c029d48[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Wed Oct 17 16:53:26 2012 +0200
+
+    remove zlogin
+
+[33mcommit e2b6a73e8ddb14e17617165807ddd1af0dd1541b[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Wed Oct 17 10:32:30 2012 +0200
+
+    Forgot to add quotes to aliases
+
+[33mcommit de051eff47e1365eb9d37943e068a28d6f9b2574[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Oct 16 10:20:15 2012 +0200
+
+    Use zlogin for rvm loading
+
+[33mcommit 7cf9cb537c5a392e5ee885a4e83ac62a9270925b[m
+Author: Sébastien Saunier <sebastien.saunier@gmail.com>
+Date:   Tue Oct 16 10:20:07 2012 +0200
+
+    Use zlogin for rvm loading
+
+[33mcommit ce2c349875f63452e2752d3457dca16036c72666[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Thu Oct 4 09:44:18 2012 +0200
+
+    gitconfig
+
+[33mcommit d47f14512796c31a06d4f6db3b0cf7035f949416[m
+Merge: 8163aff b8c5427
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Thu Oct 4 09:32:59 2012 +0200
+
+    Resolve conflict
+
+[33mcommit 8163aff927bd5789bc9f1e850ab2d616351c30f6[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Thu Oct 4 09:30:42 2012 +0200
+
+    Sublime settings
+
+[33mcommit b8c5427ff2ad165a4cfb68861a4c86d37709a68b[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 22:10:23 2012 +0200
+
+    Add git serve command
+
+[33mcommit 893db39df035530d3747b75c67dcd7dbb05340ae[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 19:09:28 2012 +0200
+
+    Add git d alias
+
+[33mcommit 1e41858f6f3f88ff7994b4666cb24fedadd992cc[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 14:42:20 2012 +0200
+
+    Add instructions to change Sumblime Text 2 icon to the one by @dmatarazzo
+
+[33mcommit 72696ea2a05f156892f77561eb7327022fcd580a[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 14:30:39 2012 +0200
+
+    Never word wrap...
+
+[33mcommit df8eb4e369b509a18d853610b43c6f3d102318fa[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 12:11:46 2012 +0200
+
+    More awesomeness in the gitconfig
+
+[33mcommit fe1f7e44c4a44beeaf710ce5eff38319f7e4b15e[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 11:05:10 2012 +0200
+
+    Forgot to remove a hard-coded color
+
+[33mcommit 93a931345795d098005a4be5e019169c5a9d6bca[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 10:55:46 2012 +0200
+
+    More colors in the install.sh script
+
+[33mcommit 2732890d6a1ded2f593bb78af4fde39ce4633835[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 10:41:47 2012 +0200
+
+    Update reame with update directions
+
+[33mcommit 7d9950dae3b6bd5504c26e713791a695d42e8521[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 10:26:39 2012 +0200
+
+    Auto install plugins
+
+[33mcommit 8d0b81698fe23f4b8f9d534716da857f7598eaf2[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Wed Oct 3 10:14:56 2012 +0200
+
+    Backup existing config files before symlinking
+
+[33mcommit 036684b5ab0410913b10978c7e781c62e0eb471f[m
+Merge: 56eb9d7 e6887f8
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Tue Oct 2 01:56:52 2012 -0700
+
+    Merge pull request #1 from tildedash/add-rvm-in-zshrc
+    
+    Add rvm in zshrc
+
+[33mcommit 56eb9d72e1a0062c52c0d68da057f7bff7cf70c9[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Tue Oct 2 10:56:19 2012 +0200
+
+    Update readme with .zshenv instructions
+
+[33mcommit e6887f8eaff3a2d5b11c8d9192ab94527acea0d7[m
+Merge: 5b76983 b7a3d87
+Author: Julien Malherbe <julien.malherbe@applidget.com>
+Date:   Tue Oct 2 10:54:55 2012 +0200
+
+    merged ssaunier and tildedash bashrc
+
+[33mcommit 5b76983d4f608ae94579ed0bd743707d9512adf1[m
+Author: Julien Malherbe <julien.malherbe@applidget.com>
+Date:   Tue Oct 2 10:32:03 2012 +0200
+
+    use HOME instead of tilda which doesn't work
+
+[33mcommit 5eb1579ffdfb9f2cb9a8c00923cdafe3e16b6b69[m
+Author: Julien Malherbe <julien.malherbe@applidget.com>
+Date:   Mon Oct 1 18:55:52 2012 +0200
+
+    Add rvm in zshrc
+
+[33mcommit b7a3d87d12a36a88bd4cb8327012a7754b22fce8[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 16:49:31 2012 +0200
+
+    Remove bundler plugin from ohmyzsh as it intergere with rake install
+
+[33mcommit 19a93793dabe32a2b51c174ecf6e834531e75685[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 15:40:33 2012 +0200
+
+    Add aliases
+
+[33mcommit da3ff89616bf6e3389aa5ea996507f1e1847a886[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 12:58:23 2012 +0200
+
+    Add gemrc
+
+[33mcommit 89cb9a6d92a4724f08ab849a9edc6b05954f8232[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 12:34:39 2012 +0200
+
+    Add sublime text preferences
+
+[33mcommit 3ca9ad2350ff1f7523603d195535b180b4e29dfd[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 11:07:52 2012 +0200
+
+    Don't symlink directories
+
+[33mcommit 808df76f8789a7dfec09964431679889dd0edfa7[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 11:01:54 2012 +0200
+
+    Adding Textmate convention of 2 spaces for tabs
+
+[33mcommit 7f37dc1c7e3437add8c62072b64778f3a7dd2f79[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 10:48:29 2012 +0200
+
+    Update README
+
+[33mcommit 1786b2da9f39b4ea70130b8db4fc55d32dc83c04[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 10:45:57 2012 +0200
+
+    Adding gitconfig and zshrc
+
+[33mcommit 02292003202bae1693efd3ede73539669bc668e8[m
+Author: Sébastien Saunier <sebastien.saunier@applidget.com>
+Date:   Mon Oct 1 10:26:20 2012 +0200
+
+    Init
